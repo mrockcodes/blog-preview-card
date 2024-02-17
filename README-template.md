@@ -6,7 +6,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 
@@ -21,10 +20,6 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./assets/images/Screenshot%202024-02-18%20004319.png)
-![](./assets/images/Screenshot%202024-02-18%20004443.png)
 
 ### Links
 
