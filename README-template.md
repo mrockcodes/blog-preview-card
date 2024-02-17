@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/mrockcodes/blog-preview-card
 - Live Site URL: https://mrockcodes.github.io/blog-preview-card/
 
 ### Built with
